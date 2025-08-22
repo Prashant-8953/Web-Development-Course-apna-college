@@ -1,0 +1,100 @@
+/* .container {
+  width: 70px;
+ height: 200px;
+ border: 2px solid black;
+   text-align: center;
+}
+
+.group {
+ border: 2px solid black;
+ width: 50px;
+ height: 50px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 50%
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+} */
+
+
+
+
+/* assiment 3 */
+
+/* question 1  */
+/* div {
+  width: 300px;
+  height: 150px;
+  background-color: gray;
+  border: 2px dotted rgb(8, 8, 8);
+  margin: 20px 1em 40px 2em;
+  padding: 1em;
+} */
+
+
+
+/* question 2 */
+
+/* .outer {
+  border: 2px solid rgb(8, 8, 8);
+  width: 50%;
+  text-align: center;
+  margin: 50Px auto;
+ 
+}
+.inner{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(207, 38, 198);
+  border: 2px solid rgb(8, 8, 8);
+  border-radius: 50%;
+  display: inline-block;
+ 
+} */
+
+
+/* question 3 */
+
+
+/* .outer {
+  border: 2px solid rgb(8, 8, 8);
+  text-align: center; 
+}
+li{
+    display: inline;
+} */
+
+
+/* .card{
+    border: 1px solid black;
+    width: 350px;
+    height: 350px;
+    display: inline-block;
+    margin: 20px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0);
+    border-radius: 10px;
+}
+
+.card:hover{
+  box-shadow: 2px 2px 15px rgba(0, 0, 0);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.card img {
+    border-radius :10px 10px 0  0;
+    width: 100%;
+}
+
+.desc{
+     text-align: center;
+} */
