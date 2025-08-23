@@ -98,3 +98,80 @@ li{
 .desc{
      text-align: center;
 } */
+
+
+ /* new question make simely face  */
+/* 
+#container {
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+  border-radius: 50%;
+  background-color: yellow;
+  margin: 50px auto;
+  position: relative;
+  
+}
+
+#eye-left {
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  border-radius: 50%;
+  position: absolute;
+  top: 60px;
+  left: 40px;
+
+ 
+}
+
+ #eye-right{
+    width: 30px;
+  height: 30px;
+  background-color: black;
+  border-radius: 50%;
+  position: absolute;
+  top: 60px;
+  left: 125px;
+ }
+
+ #mouth{
+border: 3px solid black;
+width: 100px;
+  height: 40px;
+border-radius: 0 0 70px 70px;
+  position: absolute;
+  top: 125px;
+  left: 50px;
+  
+ }
+ */
+
+/* new question --------------------------- */
+
+#box1{
+  width:100px;
+  height:100px;
+  background:green;
+    transition: 1s ease-in 0.5s;
+    
+}
+
+#box1:hover{
+  width: 600px; 
+cursor: pointer;
+}
+
+
+#box2{width:500px;height:1000px;background:red;
+
+  
+}
+
+#box2:hover{
+  transform: rotate(360deg) translate(150px) scale(1.5);/* rotate ke liye */
+  transform: skew(360deg) translate(150px) scale(1.5); /*skew ke liye*/
+  transition: 2s ease-in 0.5s;
+  cursor: pointer;
+}
+
